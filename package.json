@@ -1,0 +1,70 @@
+{
+  "_from": "nativescript-ios-uuid",
+  "_id": "nativescript-ios-uuid@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-6Irix5zBc4WneiLID02/YyETKQs=",
+  "_location": "/nativescript-ios-uuid",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-ios-uuid",
+    "name": "nativescript-ios-uuid",
+    "escapedName": "nativescript-ios-uuid",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-ios-uuid/-/nativescript-ios-uuid-1.0.0.tgz",
+  "_shasum": "e88ae2c79cc17385a77a22c80f4dbf632113290b",
+  "_spec": "nativescript-ios-uuid",
+  "_where": "/Users/abner/git/gpa-pamais-nativescript",
+  "author": {
+    "name": "Rossen Hristov",
+    "email": "rossen.hristov@telerik.com",
+    "url": "https://github.com/hamorphis"
+  },
+  "bugs": {
+    "url": "https://github.com/hamorphis/nativescript-ios-uuid/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A NativeScript plugin for iOS that allows you to get a UUID (Universal Unique Identifier) for a device.",
+  "devDependencies": {
+    "tns-core-modules": "^2.4.2",
+    "tns-platform-declarations": "^2.4.2",
+    "typescript": "^2.1.4"
+  },
+  "homepage": "https://github.com/hamorphis/nativescript-ios-uuid",
+  "keywords": [
+    "NativeScript",
+    "iOS",
+    "UUID",
+    "Device",
+    "Universal Unique Identifier",
+    "iPhone",
+    "iPad"
+  ],
+  "license": "Apache-2.0",
+  "main": "index",
+  "name": "nativescript-ios-uuid",
+  "nativescript": {
+    "id": "org.nativescript.iosuuid",
+    "platforms": {
+      "ios": "2.4.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamorphis/nativescript-ios-uuid.git"
+  },
+  "scripts": {
+    "prepublish": "tsc",
+    "tsc": "tsc"
+  },
+  "version": "1.0.0"
+}
